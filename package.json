@@ -1,0 +1,17 @@
+{
+    "name": "underscore-mixins2",
+    "version": "1.0.0",
+    "description": "Underscore mixins",
+    "main": "index.js",
+    "author": "Mariusz Lichota",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marlic7/underscore-mixins2.git"
+    },
+    "dependencies": {
+      "underscore": "^1.7.0"
+    },
+    "devDependencies": {
+    }
+}
